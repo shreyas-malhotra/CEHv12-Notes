@@ -3,8 +3,8 @@
 + Non Repudiation
 
 # Methods:
-Integrity - Hashing
-Authenticity/Non Repudiation - Digital Signatures
+- Integrity - Hashing
+- Authenticity/Non Repudiation - Digital Signatures
 
 # Attacks = Motive + Method (Exploit) + Vulnerability
 
